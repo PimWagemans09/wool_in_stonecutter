@@ -1,0 +1,27 @@
+{
+  "placeholders": ["COLOR"],
+  "options": [
+    ["white"],
+    ["light_gray"],
+    ["gray"],
+    ["black"],
+    ["brown"],
+    ["red"],
+    ["orange"],
+    ["yellow"],
+    ["lime"],
+    ["green"],
+    ["cyan"],
+    ["light_blue"],
+    ["blue"],
+    ["purple"],
+    ["magenta"],
+    ["pink"]
+  ],
+  "src_dir": "src/templates",
+  "dest_dir": "output",
+  "base_file_structure": "src/base_datapack/wool_in_stonecutter",
+  "src_dir_to_output_dir_mapping": {
+    "": "data/wool_in_stonecutter/recipe"
+  }
+}
