@@ -1,5 +1,13 @@
 # Wool In Stonecutter
 
-Minecraft is introducing wool stairs and slabs in 26.3 so I made this datapack for the snapshots.
+Allows you to craft wool stairs, slabs and cushions in a stonecutter. 
 
-Allows you to craft wool stairs, slabs, and cushions in a stonecutter. 
+## putting wool in a stonecutter gives:
+
+* 1 stair
+* 2 slabs
+* 2 cushions
+
+## putting wool slabs in a stonecutter gives:
+
+* 2 cushions
