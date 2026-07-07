@@ -1,7 +1,7 @@
 {
   "display": {
     "title": "Wool In Stonecutter",
-    "description": "Craft wool stairs and slabs using a stonecutter!",
+    "description": "Craft wool stairs, slabs, and cushions using a stonecutter!",
     "icon": {
       "id": "minecraft:white_wool_stairs"
     },

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:{COLOR}_wool",
+  "result": {
+    "id": "minecraft:{COLOR}_cushion",
+    "count": 2
+  }
+}

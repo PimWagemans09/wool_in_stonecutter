@@ -1,7 +1,7 @@
 {
   "pack": {
-    "min_format": 108,
+    "min_format": 110,
     "max_format": 110,
-    "description": "allows you to craft wool stairs and slabs using a stonecutter"
+    "description": "allows you to craft wool stairs, slabs, and cushions using a stonecutter"
   }
 }
